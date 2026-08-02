@@ -1,7 +1,3 @@
-# Los scripts de shell SIEMPRE con finales de linea LF, sin importar el sistema
-# operativo desde el que se commitee. Sin esto, un archivo subido o editado
-# desde Windows llega con CRLF y bash falla en cada linea con el criptico
-# "$'\r': command not found".
 *.sh   text eol=lf
 *.bash text eol=lf
 *.md   text eol=lf
