@@ -14,7 +14,6 @@ idénticas.
 
 ```bash
 curl -fsSLO https://raw.githubusercontent.com/darks00ul/setup-zsh/main/setup-zsh.sh
-less setup-zsh.sh          # miralo antes: lo vas a correr como root
 sudo bash setup-zsh.sh
 exec zsh
 ```
