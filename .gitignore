@@ -1,0 +1,18 @@
+# Backups que genera el propio script si se prueba en local
+*.pre-zsh-setup.bak
+*.bak
+
+# Editores
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# macOS / Linux
+.DS_Store
+.directory
+
+# Scratch de pruebas
+/tmp/
+*.log
